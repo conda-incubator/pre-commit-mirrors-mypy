@@ -1,4 +1,4 @@
 channels:
   - conda-forge
 dependencies:
-  - mypy=0.991
+  - mypy=1.0.0
