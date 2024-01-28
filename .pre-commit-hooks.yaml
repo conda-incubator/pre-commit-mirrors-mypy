@@ -1,8 +1,8 @@
 - id: mypy-conda
   name: mypy-conda
+  description: 'This hook runs mypy.'
   entry: mypy
   language: conda
-  'types': [python]
-  args: ["--ignore-missing-imports", "--scripts-are-modules"]
+  types: [python]
+  args: ['--ignore-missing-imports', '--scripts-are-modules']
   require_serial: true
-  additional_dependencies: []
