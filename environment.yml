@@ -1,4 +1,5 @@
 channels:
   - conda-forge
+  - nodefaults
 dependencies:
   - mypy=1.8.0
