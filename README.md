@@ -1,6 +1,6 @@
-# mypy mirror
+# mypy pre-commit hook
 
-Mirror of mypy for pre-commit with conda as a language.
+pre-commit hook of mypy with conda as a `language` / package manager.
 
 For pre-commit: see [here](https://github.com/pre-commit/pre-commit)
 
